@@ -10,7 +10,7 @@ Our easy to use app, allows you to gain chat capable live viewers in a couple of
 
 ![alt text](https://streamviewerbot.com/images/ui_23_2_4.png)
 
-**[Download for Windows x64](https://streamviewerbot.com/Download/win-x64.zip):arrow_down:** **3 URL FREE**
+**[Download for Windows x64](https://github.com/streamviewerchatbot/Stream-Viewer-Chat-Bot/releases/download/23.3.4/Stream-Viewer-Chat-Bot-23.3.4.zip):arrow_down:** **3 URL FREE**
 
 Leaked free proxies may **NOT** work, please buy for yourself. You can buy it from [**HERE**](https://www.webshare.io/?referral_code=ceuygyx4sir2)
  at an affordable price.
